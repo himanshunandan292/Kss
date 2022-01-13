@@ -8,7 +8,7 @@ List for ROS Commands :
 
   ROSTOPIC :-    
   
-         rostopic bw	display bandwidth used by topic
+        rostopic bw	display bandwidth used by topic
 	 
 	rostopic delay	display delay of topic from timestamp in header
 	
@@ -80,6 +80,9 @@ List for ROS Commands :
 
 
 rqt_graph :- for viewing the rqt console for better understanding of publisher, subscribers and the communivation between them.
+
+
+![alt text](https://github.com/himanshunandan292/Kss/blob/main/mimiclaunch.jpg?raw=true)
 
 
 
